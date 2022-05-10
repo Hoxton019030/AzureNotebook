@@ -2,6 +2,7 @@
 
 # 雲端運算的安全架構
 
+![image](https://user-images.githubusercontent.com/98711945/167526058-37a2e932-3a13-4950-85c5-9d72003ba691.png)
 
 + Private Cloud
 + laaS
@@ -12,7 +13,4 @@
 + SaaS
 
     Example:```Office365```,```Gmail```
- dsd
-
-
 
